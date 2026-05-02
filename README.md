@@ -32,3 +32,5 @@ Maybe you don't know how to use this thing. It is very simple, actually.
 
 - If anything goes wrong, please press the "Refetch from web" button.
 - You cannot remove your preassigned courses. If you would like to edit them, please re-enter into the textbox and press "Process!" again.
+
+Scraper is not provided due to concerns of DDOS attacks.
